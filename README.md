@@ -11,9 +11,6 @@ This repository contains the codes for the VIABLE-SEM Model used in our research
 **Publication**:  
 Heliyon (www.cell.com/heliyon)
 
-**Authors**:  
-Muhammad Mobeen, Khondokar H. Kabir, Uwe A. Schneider, Tauqeer Ahmed, Jürgen Scheffran
-
 ## Objectives
 
 1. Assess the significance of sustainable livelihood capital in the adaptation process, especially in Crop, Farm, Irrigation, and Economic Management.
