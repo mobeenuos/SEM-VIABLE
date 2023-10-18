@@ -32,7 +32,7 @@ Heliyon (www.cell.com/heliyon)
   
 - The study mapped 13 notable viability pathways representing investment priorities, farming purposes, and challenges in climate change adaptation.
   
-- Non-climatic factors were seen to have a negative correlation, while climatic factors had a positive correlation with the relationship between capital and adaptation.
+- Non-climatic factors were seen to have a negative effect, while climatic factors had a positive role with the relationship between capital and adaptation.
 
 ## Implications
 
