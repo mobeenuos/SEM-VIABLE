@@ -9,7 +9,7 @@ This repository contains the codes for the VIABLE-SEM Model used in our research
 "Sustainable livelihood capital and climate change adaptation in Pakistan’s agriculture: Structural equation modeling analysis in the VIABLE framework"
 
 **Publication**:  
-Heliyon (www.cell.com/heliyon)
+Heliyon (www.cell.com/heliyon). Online link: https://www.sciencedirect.com/science/article/pii/S240584402308026X
 
 ## Objectives
 
