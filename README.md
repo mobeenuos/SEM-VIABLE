@@ -2,6 +2,8 @@
 # VIABLE-SEM Model for Sustainable Livelihood Capital & Climate Change Adaptation in Pakistan's Agriculture
 
 ## Overview
+![This is an image](![VIABLE-SEM (10)](https://github.com/mobeenuos/VIABLE-SEM/assets/67826578/ca5209b0-ff93-420a-8c11-6c6f184fba67)
+)
 
 This repository contains the codes for the VIABLE-SEM Model used in our research study focused on understanding the dynamics of sustainable livelihood capital and its role in climate change adaptation within Pakistan's agriculture sector.
 
